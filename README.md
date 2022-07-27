@@ -6,9 +6,9 @@
 
 :triangular_flag_on_post: Thuật toán FCFS :heavy_check_mark:
 
-:triangular_flag_on_post: Thuật toán SJF Độc Quyền :heavy_check_mark:
+:triangular_flag_on_post: Thuật toán SJF Độc Quyền (Không Ưu Tiên) :heavy_check_mark:
 
-:triangular_flag_on_post: Thuật toán SJF Không Độc Quyền :heavy_check_mark:
+:triangular_flag_on_post: Thuật toán SJF Không Độc Quyền (Ưu Tiên) :heavy_check_mark:
 
 ####:file_folder: **Bộ nhớ chính** :sparkles:
 
